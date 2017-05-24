@@ -34,7 +34,7 @@ public class FlowLayout extends ViewGroup {
 		// 行高
         int lineHeight = 0;
         int lineWidth = paddingWidth;
-		// 叠加换行时候的行高
+        // 叠加换行时候的行高
         int nextHeight = mPaddingTop;
 
         // 子控件数
