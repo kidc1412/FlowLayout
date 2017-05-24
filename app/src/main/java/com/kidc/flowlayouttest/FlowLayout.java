@@ -31,7 +31,7 @@ public class FlowLayout extends ViewGroup {
         int paddingWidth = mPaddingLeft + mPaddingRight;
         int paddingHeight = mPaddingTop + mPaddingBottom;
 
-		// 行高
+        // 行高
         int lineHeight = 0;
         int lineWidth = paddingWidth;
         // 叠加换行时候的行高
